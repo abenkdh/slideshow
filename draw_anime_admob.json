@@ -5,6 +5,6 @@
   "unity_id": "4296469",
   "unity_banner": "Banner_Android",
   "unity_inter": "Interstitial_Android",
-  "ads_provider": "IRON_SOURCE",
+  "ads_provider": "ADMOB",
   "iron_key": "10fce794d"
 }
