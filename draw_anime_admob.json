@@ -1,0 +1,10 @@
+{
+  "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+  "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+  "admob_open": "ca-app-pub-3940256099942544/3419835294",
+  "unity_id": "4296469",
+  "unity_banner": "Banner_Android",
+  "unity_inter": "Interstitial_Android",
+  "ads_provider": "IRON_SOURCE",
+  "iron_key": "10fce794d"
+}
