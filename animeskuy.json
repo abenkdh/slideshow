@@ -3,6 +3,7 @@
     "admob_banner": "ca-app-pub-3940256099942544/6300978111",
     "admob_native": "ca-app-pub-3940256099942544/2247696110",
     "admob_open": "ca-app-pub-3940256099942544/3419835294",
+    "admob_reward": "ca-app-pub-3940256099942544/5224354917",
     "admob_interstitial_enable": false,
     "version_name": "1.0",
     "update_url": "http://google.com"
