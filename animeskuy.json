@@ -1,11 +1,11 @@
 {
-    "admob_interstitial": "ca-app-pub-6542139737333566/6970767371",
-    "admob_banner": "ca-app-pub-6542139737333566/8283849043",
-    "admob_native": "ca-app-pub-6542139737333566/1718440691",
+    "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+    "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+    "admob_native": "ca-app-pub-3940256099942544/2247696110",
     "admob_open": "ca-app-pub-3940256099942544/3419835294",
-    "admob_reward": "ca-app-pub-6542139737333566/6966897944",
+    "admob_reward": "ca-app-pub-3940256099942544/5224354917",
     "admob_interstitial_enable": false,
-    "version_name": "2.0",
+    "version_name": "4.0",
     "update_url": "http://google.com",
     "privacy": "https://animeskuy.web.app/privacy.html"
 }
