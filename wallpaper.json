@@ -1,0 +1,119 @@
+{
+	"Ads": [{
+		"select_main_ads": "ADMOB",
+		"select_backup_ads": "APPLOVIN-D",
+		"main_ads_banner": "ca-app-pub-2282982331849796/1524610406",
+		"main_ads_intertitial": "ca-app-pub-2282982331849796/7986911120",
+		"native_for_admob": "ca-app-pub-2282982331849796/1382031795",
+
+		"backup_ads_banner": "",
+		"backup_ads_intertitial": "",
+		"interval_intertitial": 12,
+		"initialize_sdk": "",
+		"nativinterval": 3,
+		"enable_inters": true,
+		"initialize_sdk_backup_ads": "",
+		"high_paying_keyword_1": "",
+		"high_paying_keyword_2": "",
+		"high_paying_keyword_3": "",
+		"high_paying_keyword_4": "",
+		"high_paying_keyword_5": "",
+		"status_app": "0",
+		"link_redirect": "https://"
+	}],
+	"More": [{
+		"id": 1,
+		"title": "",
+		"image": "",
+		"link": ""
+	}],
+
+	"Categories": [{
+		"id": 1,
+		"name_category": "Ninja",
+		"image": "https://i.pinimg.com/originals/06/87/c6/0687c62304a2ff2d9dcf3c9940588d88.gif"
+
+	}, {
+		"id": 1,
+		"name_category": "Nar",
+		"image": "https://i.pinimg.com/564x/1a/8a/9b/1a8a9b58ed679f1016e5c1bb5afac63c.jpg"
+
+	}, {
+		"id": 1,
+		"name_category": "Gara",
+		"image": "https://i.pinimg.com/564x/47/6f/d3/476fd3d6c70eb15533d045f5b330ad6a.jpg"
+
+	}, {
+		"id": 1,
+		"name_category": "Manda",
+		"image": "https://i.pinimg.com/564x/92/0e/4d/920e4d6acc06adab45ecb581d10f905e.jpg"
+	}, {
+		"id": 1,
+		"name_category": "Saku",
+		"image": "https://i.pinimg.com/564x/d7/21/b0/d721b05ff6868f17b3a9c13d3e470a74.jpg"
+	}, {
+		"id": 1,
+		"name_category": "Sas",
+		"image": "https://i.pinimg.com/564x/4a/50/e9/4a50e93c205e7f14ea5385fb792d1e49.jpg"
+
+	}, {
+		"id": 1,
+		"name_category": "Hina",
+		"image": "https://i.pinimg.com/564x/06/7b/da/067bda88efcb46dc9146e285d828a3cc.jpg"
+	}, {
+		"id": 1,
+		"name_category": "Kakas",
+		"image": "https://i.pinimg.com/564x/76/13/07/761307a728ba34f9e47122b77d888a62.jpg"
+	}, {
+		"id": 1,
+		"name_category": "Uchi",
+		"image": "https://i.pinimg.com/564x/6f/93/1f/6f931f2104746a85eb8030233c8a208e.jpg"
+	}, {
+		"id": 1,
+		"name_category": "Itach",
+		"image": "https://i.pinimg.com/564x/6f/93/1f/6f931f2104746a85eb8030233c8a208e.jpg"
+	}, {
+		"id": 1,
+		"name_category": "Freinds",
+		"image": "https://i.pinimg.com/564x/6f/93/1f/6f931f2104746a85eb8030233c8a208e.jpg"
+	}, {
+		"id": 1,
+		"name_category": "Freinds2",
+		"image": "https://i.pinimg.com/564x/4a/9b/4d/4a9b4da7f7b916b3963d36fe8538b41b.jpg"
+	}, {
+		"id": 1,
+		"name_category": "Freinds2 Chibi",
+		"image": "https://i.pinimg.com/564x/38/b6/4f/38b64fe3979ca298c23988c98bf8ae5e.jpg"
+	}, {
+		"id": 1,
+		"name_category": "Freinds3",
+		"image": "https://i.pinimg.com/564x/cc/6c/95/cc6c95592e74954fc17002878eddf163.jpg"
+	}, {
+		"id": 1,
+		"name_category": "Freinds4",
+		"image": "https://i.pinimg.com/564x/cc/6c/95/cc6c95592e74954fc17002878eddf163.jpg"
+	}],
+
+	"Data": [{
+			"id": 1,
+			"title": "",
+			"name_category": "Itach",
+			"image": "https://i.pinimg.com/originals/06/87/c6/0687c62304a2ff2d9dcf3c9940588d88.gif"
+		}, {
+			"id": 1,
+			"title": "",
+			"name_category": "Itach",
+			"image": "https://i.pinimg.com/564x/53/80/11/538011fa85151438fa1e74a263b10198.jpg"
+		}, {
+			"id": 1,
+			"title": "",
+			"name_category": "Itach",
+			"image": "https://i.pinimg.com/564x/4a/bd/0b/4abd0bf0a0c8ae4cf5e0782d775be52f.jpg"
+		}, {
+			"id": 1,
+			"title": "",
+			"name_category": "Ninja",
+			"image": "https://drive.google.com/uc?id=1N-J0Tii47fgsqOKJFOxCrL3MMtG7mJj1#.mp4"
+		}
+	]
+}
